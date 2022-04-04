@@ -5,6 +5,7 @@
 int main()
 
 {
+    
     int x, y, z, average;
     
     printf("Input 3 numbers to take the average of them.\n");
